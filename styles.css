@@ -135,7 +135,7 @@ a{color:inherit}
 .hero-art{display:flex;justify-content:center}
 .orbit{position:relative;width:min(100%,420px);aspect-ratio:1/.92}
 
-.tiff{width:54%;position:absolute;left:23%;top:16%;filter:drop-shadow(0 12px 18px rgba(33,50,44,.14))}
+.tiff{width:46%;height:auto;position:absolute;left:27%;top:12%;filter:drop-shadow(0 12px 18px rgba(33,50,44,.14))}
 .tiff--md{width:210px;position:static;left:auto;top:auto}
 .tiff--lg{width:230px;position:static;left:auto;top:auto}
 
